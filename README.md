@@ -4,7 +4,7 @@ This project sets up a simple AWS infrastructure using Terraform. The infrastruc
 
 ## Architecture Overview
 
-![Architecture Diagram](https://github.com/Kmac907/AWS-Infrastructure-with-Terraform/assets/120307903/267dc37e-5b75-404d-b59c-853277e3c035)
+![Architecture Diagram](https://github.com/Kmac907/AWS-Infrastructure-with-Terraform/assets/120307903/d5249659-8a4d-40fd-ab46-1fec9df052b7)
 
 ### Components
 
